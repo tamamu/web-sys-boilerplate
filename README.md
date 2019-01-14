@@ -1,5 +1,7 @@
 # web-sys Boilerplate
 
+See [The `wasm-bindgen` Guide](https://rustwasm.github.io/wasm-bindgen/introduction.html).
+
 ```bash
 # Install tools
 ./bootstrap.sh
