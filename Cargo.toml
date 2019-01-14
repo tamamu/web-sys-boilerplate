@@ -1,5 +1,5 @@
 [package]
-name = "rustwasm-boilerplate"
+name = "web-sys-boilerplate"
 version = "0.1.0"
 authors = ["tamamu <tamamu.1r1s@gmail.com>"]
 edition = "2018"

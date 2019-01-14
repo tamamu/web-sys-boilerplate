@@ -1,4 +1,4 @@
-# RustWASM Boilerplate
+# web-sys Boilerplate
 
 ```bash
 # Install tools
