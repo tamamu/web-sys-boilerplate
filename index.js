@@ -1,6 +1,6 @@
-const js =
-    import ("./web_sys_boilerplate");
+const mod =
+    import ("./crate/pkg");
 
-js.then(js => {
-    js.greet("World!");
+mod.then(mod => {
+    mod.greet("World!");
 });
