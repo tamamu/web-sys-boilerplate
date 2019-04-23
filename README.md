@@ -13,9 +13,6 @@ See [The `wasm-bindgen` Guide](https://rustwasm.github.io/wasm-bindgen/introduct
 # First
 npm install
 
-# Build index.js
-make
-
 # Watch index.js and webpack
 make serve
 
